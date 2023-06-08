@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **NodeJS, ORMs (sequelize, mongoose) and ExpressJS**
 
-- 📫 How to reach me **[mailto:jsmontivero@gmail.com](jsmontivero@gmail.com)**
+- 📫 How to reach me **[jsmontivero@gmail.com](mailto:jsmontivero@gmail.com)**
 
 - 📄 Know more about me [https://jsmontivero.com/](https://jsmontivero.com/)
 
