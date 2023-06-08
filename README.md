@@ -15,16 +15,7 @@
 
    <p align="center">
       <a href="https://linkedin.com/in/josias-montivero"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" /></a>
-      <a href="https://twitter.com/asmntfps"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" /></a>
    </p>
-   
-<!--h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asm0nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asm0nt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/josias-montivero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josias-montivero" height="30" width="40" /></a>
-<a href="https://instagram.com/asm0nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asm0nt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/asm0nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asm0nt" height="30" width="40" /></a>
-</p-->
 
 ## Used
 
