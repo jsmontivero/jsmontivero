@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Geek Lounge](https://www.geeklounge.com.ar/)
 
-- 🌱 I’m currently learning **Gatsby and Next.js (static-site generators and server-side rendering)**
+- 🌱 I’m currently learning **Architectural patterns for Backend**
 
 - 💬 Ask me about **NodeJS, ORMs (sequelize, mongoose) and ExpressJS**
 
