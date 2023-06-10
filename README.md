@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **[jsmontivero@gmail.com](mailto:jsmontivero@gmail.com)**
 
-- 📄 Know more about me [https://jsmontivero.com/](https://jsmontivero.com/)
+<!--- 📄 Know more about me [https://jsmontivero.com/](https://jsmontivero.com/)-->
 
 ## Connect with me
 
@@ -51,7 +51,7 @@
 | <a href="https://geeklounge.com.ar/" target="_blank">**Geek Lounge WEB**</a> | <a href="https://samsungliveshop.com/" target="_blank">**Samsung Live Shop**</a> |
 | :---: |:---:|
 | ![Admin Panel](https://i.imgur.com/T61snwY.jpg) | [![Samsung Live Shop](https://i.imgur.com/S4QFfZl.jpg)](https://samsungliveshop.com/) |
-| **Geek Lounge** is a website developed with **Next JS** (Static Site Generation).<br><br>I developed this project with a team of **designers** for the layout, using tools like **Jira** and **Figma**. <br><br>It is **SEO-friendly** and uses plugins such as **next-i18n** for translations between English and Spanish. | **Samsung Live Shop** is a website developed with **React**, **Express** (Node JS), and **MySQL** (Sequelize).<br><br>The goal was to **store data** from users who want to **register** for different **lotteries**. In this case, **Samsung** was in charge of contacting the winners using this data.<br><br>It prevented users from registering more than once using their **IP**, web **user agent**, and **Document** loaded in the form. |
+| **Geek Lounge** is a website developed with **Next JS** (Static Site Generation).<br><br>I developed this project with a team of **designers** for the layout, using tools like **Jira** and **Figma**. <br><br>It is **SEO-friendly** and uses plugins such as **next-i18n** for translations between English and Spanish. | **Samsung Live Shop** is a website developed with **React**, **Express** (Node JS), and **MySQL** (Sequelize).<br><br>The goal was to **store data** from users who want to **register** for different **lotteries**. In this case, **Samsung** was in charge of contacting the winners using this data.<br><br>It prevented users from registering more than once using their **IP**, web **user agent**, and **DNI** loaded in the form. |
 
 | **LAT G Challenge 2021** | <a href="https://latgchallenge.com" target="_blank">**LAT G Challenge 2022**</a> |
 | :---: |:---:|
