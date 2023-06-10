@@ -41,6 +41,23 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" />
    </p>  
    
+## Projects
+
+| <a href="https://twitter.com/PUBGStatusGG" target="_blank">**PUBG Status**</a> | **Nexus** |
+| :---: |:---:|
+| [![PUBG Status](https://i.imgur.com/bUDIo9a.jpg)](https://twitter.com/PUBGStatusGG) | ![Nexus](https://i.imgur.com/g1JB8ka.jpg) |
+| **PUBG Status** was a website developed with **VueJS**, **Node JS** (Express), and **MongoDB** (Mongoose). <br><br>I developed this project from scratch based on a site with similar characteristics, where the main objective was to provide all kinds of information about **PUBG Esports** (videogame).<br><br>This website had an average of 10k unique users per month during 2020 (by Google Analytics) | **Nexus** was a website developed with **React**, **Node JS** (Express), and **MySQL** (Sequelize).<br><br>Its objective was to be a platform capable of **storing users** who could create **teams** and participate in **tournaments** of different games.<br><br>APIs such as **Steam API** and **Discord API**, among others, were used to connect users with different platforms generally used in the esports environment. |
+
+| <a href="https://geeklounge.com.ar/" target="_blank">**Geek Lounge WEB**</a> | <a href="https://samsungliveshop.com/" target="_blank">**Samsung Live Shop**</a> |
+| :---: |:---:|
+| ![Admin Panel](https://i.imgur.com/T61snwY.jpg) | [![Samsung Live Shop](https://i.imgur.com/S4QFfZl.jpg)](https://samsungliveshop.com/) |
+| **Geek Lounge** is a website developed with **Next JS** (Static Site Generation).<br><br>I developed this project with a team of **designers** for the layout, using tools like **Jira** and **Figma**. <br><br>It is **SEO-friendly** and uses plugins such as **next-i18n** for translations between English and Spanish. | **Samsung Live Shop** is a website developed with **React**, **Express** (Node JS), and **MySQL** (Sequelize).<br><br>The goal was to **store data** from users who want to **register** for different **lotteries**. In this case, **Samsung** was in charge of contacting the winners using this data.<br><br>It prevented users from registering more than once using their **IP**, web **user agent**, and **Document** loaded in the form. |
+
+| **LAT G Challenge 2021** | <a href="https://latgchallenge.com" target="_blank">**LAT G Challenge 2022**</a> |
+| :---: |:---:|
+| ![LAT G Challenge 2021](https://i.imgur.com/jGBKzWB.jpg) | [![LAT G Challenge 2022](https://i.imgur.com/Q362oKm.jpg)](https://latgchallenge.com) |
+| **LAT G Challenge 2021** is a website developed in **PHP**, **Express** (Node JS), and **MySQL**.<br><br>I developed the **layout** of this page from a design sent by the company. It also has a **admin panel** developed in **React**, where tournaments and results were managed. | **LAT G Challenge 2022** is a website developed in **PHP**, **Express** (Node JS), and **MySQL**.<br><br>I developed the **layout** of this page from a design sent by the company. It also has a **admin panel** developed in **React**, where tournaments and results were managed.<br><br>It included **SSO** with OAuth for **Steam** and **Discord** to link the page's account with these platforms.  |
+
 <!--h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Programming Languages:</h4>
