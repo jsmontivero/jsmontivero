@@ -56,7 +56,7 @@
 | **LAT G Challenge 2021** | <a href="https://latgchallenge.com" target="_blank">**LAT G Challenge 2022**</a> |
 | :---: |:---:|
 | ![LAT G Challenge 2021](https://i.imgur.com/jGBKzWB.jpg) | [![LAT G Challenge 2022](https://i.imgur.com/Q362oKm.jpg)](https://latgchallenge.com) |
-| **LAT G Challenge 2021** is a website developed in **PHP**, **Express** (Node JS), and **MySQL**.<br><br>I developed the **layout** of this page from a design sent by the company. It also has a **admin panel** developed in **React**, where tournaments and results were managed. | **LAT G Challenge 2022** is a website developed in **PHP**, **Express** (Node JS), and **MySQL**.<br><br>I developed the **layout** of this page from a design sent by the company. It also has a **admin panel** developed in **React**, where tournaments and results were managed.<br><br>It included **SSO** with OAuth for **Steam** and **Discord** to link the page's account with these platforms.  |
+| **LAT G Challenge 2021** is a website developed with **PHP**, **Express** (Node JS), and **MySQL**.<br><br>I developed the **layout** of this page from a design sent by the company. It also has a **admin panel** developed in **React**, where tournaments and results were managed. | **LAT G Challenge 2022** is a website developed with **PHP**, **Express** (Node JS), and **MySQL**.<br><br>I developed the **layout** of this page from a design sent by the company. It also has a **admin panel** developed in **React**, where tournaments and results were managed.<br><br>It included **SSO** with OAuth for **Steam** and **Discord** to link the page's account with these platforms.  |
 
 <!--h3 align="left">Languages and Tools:</h3>
 
