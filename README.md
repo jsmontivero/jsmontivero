@@ -45,7 +45,7 @@
 
 | **Twitch Rivals: Rust Monitor** | **Twitch Extension: Esports Team** |
 | :---: |:---:|
-| ![Twitch Rivals: Rust Monitor](https://i.imgur.com/YNbkMvq.jpg) | ![Twitch Extension: Esports Team](https://i.imgur.com/nIdTSBr.jpg) |
+| ![Twitch Rivals: Rust Monitor](https://i.imgur.com/YNbkMvq.jpg) | ![Twitch Extension: Esports Event](https://i.imgur.com/nIdTSBr.jpg) |
 | **Twitch Rivals: Rust Monitor** is a website developed in **React**, with the **react-query** and **react-chartjs** plugins.<br><br>The goal was to provide all kinds of information about the **participants** in the event Twitch Rivals: Rust Team Battle III and the **status** of the APIs used.<br><br>The website was querying the **Twitch API** and a **private API** of the Rust server where the event was running. | **Twitch Extension: Esports Event** is a plugin developed with **HTML/JS**, **Node JS** (Sockets) and **MySQL**.<br><br>The objective was to show a **summary** about the **live broadcast**, such as names and socials of **casters**, **streamers** invited, etc.<br><br>It also featured a "select the correct answer" **minigame**, where winners were awarded points and placed on a **leaderboard** within the same extension. |
 
 | <a href="https://twitter.com/PUBGStatusGG" target="_blank">**PUBG Status**</a> | **Nexus** |
