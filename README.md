@@ -26,6 +26,7 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/6b37572b488dae3f5d67e1998bc59d2bc3ff05ba/png/dev/languages/typescript.png" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/sass.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" />
    </p>  
@@ -33,6 +34,9 @@
 ## Services and Tools
 
    <p align="center">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/f77e3211066dcb537eaa9b4e13e29f41e2295487/png/dev/tools/git.png" />
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/5bffd4d642c18efdc535293f81fb8452d8f2445e/png/dev/languages/mongodb.png" />
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/5bffd4d642c18efdc535293f81fb8452d8f2445e/png/dev/languages/mysql.png" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/gcp.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" />
