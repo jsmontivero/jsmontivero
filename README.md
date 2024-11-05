@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josias</h1>
 <h3 align="center">A passionate esports enthusiast, full-stack developer from Argentina</h3>
 
-- 🎉 I’m 24 years old
+- 🎉 I’m 25 years old
 
 - 🔭 I’m currently working on [Geek Lounge](https://www.geeklounge.com.ar/)
 
